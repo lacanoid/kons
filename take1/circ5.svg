@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="768" height="768" viewBox="0 0 768 768">
+<defs>
+<g id="g5">
+<circle class="e" cx="-192" r="192"/>
+<circle class="e" cx="-201.880747053747" r="201.880747053747"/>
+<circle class="e" cx="-237.32505167996" r="237.32505167996"/>
+<circle class="e" cx="-326.649910407183" r="326.649910407183"/>
+<circle class="e" cx="-621.32505167996" r="621.32505167996"/>
+<circle class="m" r="0"/>
+<circle class="m" r="118.66252583998"/>
+<circle class="e" cx="621.32505167996" r="621.32505167996"/>
+<circle class="m" r="225.70953688031"/>
+<circle class="e" cx="326.649910407183" r="326.649910407183"/>
+<circle class="m" r="310.66252583998"/>
+<circle class="e" cx="237.32505167996" r="237.32505167996"/>
+<circle class="m" r="365.205702257339"/>
+<circle class="e" cx="201.880747053747" r="201.880747053747"/>
+<circle class="m" r="384"/>
+<circle class="e" cx="192" r="192"/>
+<line class="e" x1="0" y1="1242.65010335992" x2="0" y2="-1242.65010335992"/>
+<circle class="shell" r="1242.65010335992"/>
+<circle class="unit" r="384"/>
+<circle class="unit" cx="192"  r="192"/>
+<circle class="unit" cx="-192" r="192"/>
+</g>
+</defs>
+<g id="g" transform="translate(384,384)">
+    <use xlink:href="#g5" transform="scale(0.309016994374947)"/>
+    <use xlink:href="#g5"/>
+</g>
+</svg>

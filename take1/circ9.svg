@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="768" height="768" viewBox="0 0 768 768">
+<defs>
+<g id="g9">
+<circle class="e" cx="-192" r="192"/>
+<circle class="e" cx="-194.961909482063" r="194.961909482063"/>
+<circle class="e" cx="-204.322132315375" r="204.322132315375"/>
+<circle class="e" cx="-221.702503368816" r="221.702503368816"/>
+<circle class="e" cx="-250.638199551797" r="250.638199551797"/>
+<circle class="e" cx="-298.698974757199" r="298.698974757199"/>
+<circle class="e" cx="-384" r="384"/>
+<circle class="e" cx="-561.370444831313" r="561.370444831313"/>
+<circle class="e" cx="-1105.68393276358" r="1105.68393276358"/>
+<circle class="m" r="0"/>
+<circle class="m" r="66.6809002241013"/>
+<circle class="e" cx="1105.68393276358" r="1105.68393276358"/>
+<circle class="m" r="131.335735037057"/>
+<circle class="e" cx="561.370444831313" r="561.370444831313"/>
+<circle class="m" r="192"/>
+<circle class="e" cx="384" r="384"/>
+<circle class="m" r="246.830442119631"/>
+<circle class="e" cx="298.698974757199" r="298.698974757199"/>
+<circle class="m" r="294.161066157688"/>
+<circle class="e" cx="250.638199551797" r="250.638199551797"/>
+<circle class="m" r="332.553755053224"/>
+<circle class="e" cx="221.702503368816" r="221.702503368816"/>
+<circle class="m" r="360.841966381789"/>
+<circle class="e" cx="204.322132315375" r="204.322132315375"/>
+<circle class="m" r="378.166177156688"/>
+<circle class="e" cx="194.961909482063" r="194.961909482063"/>
+<circle class="m" r="384"/>
+<circle class="e" cx="192" r="192"/>
+<line class="e" x1="0" y1="2211.36786552716" x2="0" y2="-2211.36786552716"/>
+<circle class="shell" r="2211.36786552716"/>
+<circle class="unit" r="384"/>
+<circle class="unit" cx="192"  r="192"/>
+<circle class="unit" cx="-192" r="192"/>
+</g>
+</defs>
+<g id="g" transform="translate(384,384)">
+    <use xlink:href="#g9" transform="scale(0.17364817766693)"/>
+    <use xlink:href="#g9"/>
+</g>
+</svg>

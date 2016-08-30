@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="768" height="768" viewBox="0 0 768 768">
+<defs>
+<g id="g16">
+<circle class="e" cx="-192" r="192"/>
+<circle class="e" cx="-192.929005896252" r="192.929005896252"/>
+<circle class="e" cx="-195.761502375997" r="195.761502375997"/>
+<circle class="e" cx="-200.639468136841" r="200.639468136841"/>
+<circle class="e" cx="-207.81930245614" r="207.81930245614"/>
+<circle class="e" cx="-217.706509369481" r="217.706509369481"/>
+<circle class="e" cx="-230.916436583057" r="230.916436583057"/>
+<circle class="e" cx="-248.379564810236" r="248.379564810236"/>
+<circle class="e" cx="-271.529003975634" r="271.529003975634"/>
+<circle class="e" cx="-302.65137540528" r="302.65137540528"/>
+<circle class="e" cx="-345.590869684384" r="345.590869684384"/>
+<circle class="e" cx="-407.300231420293" r="407.300231420293"/>
+<circle class="e" cx="-501.720178512529" r="501.720178512529"/>
+<circle class="e" cx="-661.41968572352" r="661.41968572352"/>
+<circle class="e" cx="-984.159531932738" r="984.159531932738"/>
+<circle class="e" cx="-1958.84106957664" r="1958.84106957664"/>
+<circle class="m" r="0"/>
+<circle class="m" r="37.6385818865513"/>
+<circle class="e" cx="1958.84106957664" r="1958.84106957664"/>
+<circle class="m" r="74.9146836541933"/>
+<circle class="e" cx="984.159531932738" r="984.159531932738"/>
+<circle class="m" r="111.469316065714"/>
+<circle class="e" cx="661.41968572352" r="661.41968572352"/>
+<circle class="m" r="146.950438028194"/>
+<circle class="e" cx="501.720178512529" r="501.720178512529"/>
+<circle class="m" r="181.016346941183"/>
+<circle class="e" cx="407.300231420293" r="407.300231420293"/>
+<circle class="m" r="213.338969479527"/>
+<circle class="e" cx="345.590869684384" r="345.590869684384"/>
+<circle class="m" r="243.60702111884"/>
+<circle class="e" cx="302.65137540528" r="302.65137540528"/>
+<circle class="m" r="271.529003975634"/>
+<circle class="e" cx="271.529003975634" r="271.529003975634"/>
+<circle class="m" r="296.836014091291"/>
+<circle class="e" cx="248.379564810236" r="248.379564810236"/>
+<circle class="m" r="319.284331124177"/>
+<circle class="e" cx="230.916436583057" r="230.916436583057"/>
+<circle class="m" r="338.657765509768"/>
+<circle class="e" cx="217.706509369481" r="217.706509369481"/>
+<circle class="m" r="354.769740484334"/>
+<circle class="e" cx="207.81930245614" r="207.81930245614"/>
+<circle class="m" r="367.465088921168"/>
+<circle class="e" cx="200.639468136841" r="200.639468136841"/>
+<circle class="m" r="376.62154767484"/>
+<circle class="e" cx="195.761502375997" r="195.761502375997"/>
+<circle class="m" r="382.150935042124"/>
+<circle class="e" cx="192.929005896252" r="192.929005896252"/>
+<circle class="m" r="384"/>
+<circle class="e" cx="192" r="192"/>
+<line class="e" x1="0" y1="3917.68213915328" x2="0" y2="-3917.68213915328"/>
+<circle class="shell" r="3917.68213915328"/>
+<circle class="unit" r="384"/>
+<circle class="unit" cx="192"  r="192"/>
+<circle class="unit" cx="-192" r="192"/>
+</g>
+</defs>
+<g id="g" transform="translate(384,384)">
+    <use xlink:href="#g16"/>
+    <use xlink:href="#g16" transform="scale(0.0980171403295606)"/>
+</g>
+</svg>

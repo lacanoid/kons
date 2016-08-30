@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="768" height="768" viewBox="0 0 768 768">
+<defs>
+<g id="g1">
+<circle class="e" cx="-192" r="192"/>
+<circle class="m" r="0"/>
+<circle class="m" r="384"/>
+<circle class="e" cx="192" r="192"/>
+<line class="e" x1="0" y1="384" x2="0" y2="-384"/>
+<circle class="shell" r="384"/>
+<circle class="unit" r="384"/>
+<circle class="unit" cx="192"  r="192"/>
+<circle class="unit" cx="-192" r="192"/>
+</g>
+</defs>
+<g id="g" transform="translate(384,384)">
+    <use xlink:href="#g1" transform="scale(1)"/>
+<!--    <use xlink:href="#g1"/> -->
+</g>
+</svg>
