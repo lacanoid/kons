@@ -1,46 +1,224 @@
-<?xml version="1.0" standalone="no"?>
-<?xml-stylesheet href="style.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
-    width="768" height="768" viewBox="0 0 768 768">
-<defs>
-<g id="g9">
-<circle class="e" cx="-192" r="192"/>
-<circle class="e" cx="-194.961909482063" r="194.961909482063"/>
-<circle class="e" cx="-204.322132315375" r="204.322132315375"/>
-<circle class="e" cx="-221.702503368816" r="221.702503368816"/>
-<circle class="e" cx="-250.638199551797" r="250.638199551797"/>
-<circle class="e" cx="-298.698974757199" r="298.698974757199"/>
-<circle class="e" cx="-384" r="384"/>
-<circle class="e" cx="-561.370444831313" r="561.370444831313"/>
-<circle class="e" cx="-1105.68393276358" r="1105.68393276358"/>
-<circle class="m" r="0"/>
-<circle class="m" r="66.6809002241013"/>
-<circle class="e" cx="1105.68393276358" r="1105.68393276358"/>
-<circle class="m" r="131.335735037057"/>
-<circle class="e" cx="561.370444831313" r="561.370444831313"/>
-<circle class="m" r="192"/>
-<circle class="e" cx="384" r="384"/>
-<circle class="m" r="246.830442119631"/>
-<circle class="e" cx="298.698974757199" r="298.698974757199"/>
-<circle class="m" r="294.161066157688"/>
-<circle class="e" cx="250.638199551797" r="250.638199551797"/>
-<circle class="m" r="332.553755053224"/>
-<circle class="e" cx="221.702503368816" r="221.702503368816"/>
-<circle class="m" r="360.841966381789"/>
-<circle class="e" cx="204.322132315375" r="204.322132315375"/>
-<circle class="m" r="378.166177156688"/>
-<circle class="e" cx="194.961909482063" r="194.961909482063"/>
-<circle class="m" r="384"/>
-<circle class="e" cx="192" r="192"/>
-<line class="e" x1="0" y1="2211.36786552716" x2="0" y2="-2211.36786552716"/>
-<circle class="shell" r="2211.36786552716"/>
-<circle class="unit" r="384"/>
-<circle class="unit" cx="192"  r="192"/>
-<circle class="unit" cx="-192" r="192"/>
-</g>
-</defs>
-<g id="g" transform="translate(384,384)">
-    <use xlink:href="#g9" transform="scale(0.17364817766693)"/>
-    <use xlink:href="#g9"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="style.css" type="text/css"?><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="768"
+   height="768"
+   viewBox="0 0 768 768"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="circ9.svg">
+  <metadata
+     id="metadata80">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1355"
+     inkscape:window-height="976"
+     id="namedview78"
+     showgrid="false"
+     inkscape:zoom="0.30729167"
+     inkscape:cx="727.33246"
+     inkscape:cy="109.49198"
+     inkscape:window-x="463"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <g
+       id="g9">
+      <circle
+         class="e"
+         cx="-192"
+         r="192"
+         id="circle7" />
+      <circle
+         class="e"
+         cx="-194.961909482063"
+         r="194.961909482063"
+         id="circle9" />
+      <circle
+         class="e"
+         cx="-204.322132315375"
+         r="204.322132315375"
+         id="circle11" />
+      <circle
+         class="e"
+         cx="-221.702503368816"
+         r="221.702503368816"
+         id="circle13" />
+      <circle
+         class="e"
+         cx="-250.638199551797"
+         r="250.638199551797"
+         id="circle15" />
+      <circle
+         class="e"
+         cx="-298.698974757199"
+         r="298.698974757199"
+         id="circle17" />
+      <circle
+         class="e"
+         cx="-384"
+         r="384"
+         id="circle19" />
+      <circle
+         class="e"
+         cx="-561.370444831313"
+         r="561.370444831313"
+         id="circle21" />
+      <circle
+         class="e"
+         cx="-1105.68393276358"
+         r="1105.68393276358"
+         id="circle23" />
+      <circle
+         class="m"
+         r="0"
+         id="circle25" />
+      <circle
+         class="m"
+         r="66.6809002241013"
+         id="circle27" />
+      <circle
+         class="e"
+         cx="1105.68393276358"
+         r="1105.68393276358"
+         id="circle29" />
+      <circle
+         class="m"
+         r="131.335735037057"
+         id="circle31" />
+      <circle
+         class="e"
+         cx="561.370444831313"
+         r="561.370444831313"
+         id="circle33" />
+      <circle
+         class="m"
+         r="192"
+         id="circle35" />
+      <circle
+         class="e"
+         cx="384"
+         r="384"
+         id="circle37" />
+      <circle
+         class="m"
+         r="246.830442119631"
+         id="circle39" />
+      <circle
+         class="e"
+         cx="298.698974757199"
+         r="298.698974757199"
+         id="circle41" />
+      <circle
+         class="m"
+         r="294.161066157688"
+         id="circle43" />
+      <circle
+         class="e"
+         cx="250.638199551797"
+         r="250.638199551797"
+         id="circle45" />
+      <circle
+         class="m"
+         r="332.553755053224"
+         id="circle47" />
+      <circle
+         class="e"
+         cx="221.702503368816"
+         r="221.702503368816"
+         id="circle49" />
+      <circle
+         class="m"
+         r="360.841966381789"
+         id="circle51" />
+      <circle
+         class="e"
+         cx="204.322132315375"
+         r="204.322132315375"
+         id="circle53" />
+      <circle
+         class="m"
+         r="378.166177156688"
+         id="circle55" />
+      <circle
+         class="e"
+         cx="194.961909482063"
+         r="194.961909482063"
+         id="circle57" />
+      <circle
+         class="m"
+         r="384"
+         id="circle59" />
+      <circle
+         class="e"
+         cx="192"
+         r="192"
+         id="circle61" />
+      <line
+         class="e"
+         x1="0"
+         y1="2211.36786552716"
+         x2="0"
+         y2="-2211.36786552716"
+         id="line63" />
+      <circle
+         class="shell"
+         r="2211.36786552716"
+         id="circle65" />
+      <circle
+         class="unit"
+         r="384"
+         id="circle67" />
+      <circle
+         class="unit"
+         cx="192"
+         r="192"
+         id="circle69" />
+      <circle
+         class="unit"
+         cx="-192"
+         r="192"
+         id="circle71" />
+    </g>
+  </defs>
+  <g
+     id="g"
+     transform="translate(384,384)"
+     style="fill:none;stroke:#000000;stroke-opacity:1">
+    <use
+       xlink:href="#g9"
+       transform="scale(0.17364817766693)"
+       id="use74"
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
+    <use
+       xlink:href="#g9"
+       id="use76"
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
+  </g>
 </svg>
